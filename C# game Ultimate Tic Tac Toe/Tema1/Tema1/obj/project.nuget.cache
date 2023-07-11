@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mGAJ4cFuHOI77s2jlK8HkCxubGnceLQigtnqfNABXyX6XJJQJaf6daI62AzJNsUcoAV39oGxq99j5JwRjyBZJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Tema1\\Tema1\\Tema1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
