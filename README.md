@@ -52,9 +52,9 @@ Power electronics
  - plenty of computations for the electrical components
  - control loops for the designed proccess
 
-Proccess control
+Water tanks control
 
- - complete modeling of a complex proccess, using aproximations
+ - complete modeling of a complex proccess, using approximations
  - different control tehniques such as classic PID control, cascade and feedforward for countering the effect of multiple types of perturbation
  - identifying linear models near variable operating point 
  - enjoyed automating this project as much as possible
@@ -87,5 +87,5 @@ OpenGL project
 
 Python project
 
- -this project is unfinishedș its main purpose is testing OOP concepts in python and modeling mathematical expressions, starting with polynomials;
+ -this project is unfinished; its main purpose is testing OOP concepts in python and modeling mathematical expressions, starting with polynomials;
 the sources of inspiration for this project were Wolfram Alpha, MATLAB and manim.
